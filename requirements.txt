@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+playwright
+httpx
+httpx-sse
+pydantic
+sseclient
